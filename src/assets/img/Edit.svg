@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <g id="Edit" transform="translate(0.546 0.639)">
+    <rect id="Rectangle_18051" data-name="Rectangle 18051" width="35" height="35" rx="4" transform="translate(-0.546 -0.639)" fill="#ef2e83"/>
+    <g id="pencil" transform="translate(8.471 8.479)">
+      <path id="Path_18753" data-name="Path 18753" d="M.8,14.832A2.715,2.715,0,0,0,0,16.751v1.393H1.393a2.714,2.714,0,0,0,1.919-.8l9.056-9.056L9.851,5.776Z" transform="translate(0 -1.914)" fill="#fff"/>
+      <path id="Path_18754" data-name="Path 18754" d="M20.826.608a1.78,1.78,0,0,0-2.518,0l-2.379,2.38,2.517,2.517,2.38-2.379a1.78,1.78,0,0,0,0-2.518Z" transform="translate(-5.118 -0.086)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

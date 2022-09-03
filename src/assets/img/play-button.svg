@@ -1,0 +1,11 @@
+<svg id="play-button" xmlns="http://www.w3.org/2000/svg" width="175.597" height="175.597" viewBox="0 0 175.597 175.597">
+  <g id="Group_11842" data-name="Group 11842">
+    <g id="Group_11841" data-name="Group 11841" transform="translate(8.929 9.57)">
+      <ellipse id="Ellipse_285" data-name="Ellipse 285" cx="78.87" cy="78.87" rx="78.87" ry="78.87" fill="#ef2e83"/>
+    </g>
+    <g id="noun-video-play-3197754">
+      <path id="Path_17655" data-name="Path 17655" d="M206.8,49a87.8,87.8,0,1,0,87.8,87.8A87.885,87.885,0,0,0,206.8,49Zm0,156.973A69.175,69.175,0,1,1,275.973,136.8,69.241,69.241,0,0,1,206.8,205.973Z" transform="translate(-119 -49)" fill="#fff"/>
+      <path id="Path_17656" data-name="Path 17656" d="M254.366,112a72.366,72.366,0,1,0,72.366,72.366A72.463,72.463,0,0,0,254.366,112Zm27.077,81.955-36.365,23.851a9.214,9.214,0,0,1-14.262-7.718V162.412a9.215,9.215,0,0,1,14.262-7.718l36.365,23.821a9.24,9.24,0,0,1,0,15.438Z" transform="translate(-166.568 -96.568)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

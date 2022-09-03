@@ -98,7 +98,11 @@ export default function SlideBar() {
             selected == "creatorSurvey" ? "nav-item active" : "nav-item"
           }
         >
-          <Link class="nav-link" to="/" onClick={() => setSelected("creatorSurvey")}>
+          <Link
+            class="nav-link"
+            to="/"
+            onClick={() => setSelected("creatorSurvey")}
+          >
             <img src={CreatorSurvey} />
             <span className="ml-2">Creator's Survey</span>
           </Link>
@@ -106,27 +110,29 @@ export default function SlideBar() {
         <li
           className={selected == "influencers" ? "nav-item active" : "nav-item"}
         >
-          <Link class="nav-link" to="/" onClick={() => setSelected("influencers")}>
+          <Link
+            class="nav-link"
+            to="/"
+            onClick={() => setSelected("influencers")}
+          >
             <img src={Influencers} />
             <span className="ml-2">Influencers</span>
           </Link>
         </li>
-		<li
-          className={selected == "chats" ? "nav-item active" : "nav-item"}
-        >
-           <Link class="nav-link" to="/" onClick={() => setSelected("chats")}>
+        <li className={selected == "chats" ? "nav-item active" : "nav-item"}>
+          <Link class="nav-link" to="/" onClick={() => setSelected("chats")}>
             <img src={Chats} />
             <span className="ml-2">Chats</span>
-			</Link>
+          </Link>
         </li>
-        <li  className={selected == "stats" ? "nav-item active" : "nav-item"}>
-		<Link class="nav-link" to="/" onClick={() => setSelected("stats")}>
+        <li className={selected == "stats" ? "nav-item active" : "nav-item"}>
+          <Link class="nav-link" to="/" onClick={() => setSelected("stats")}>
             <img src={Stats} />
             <span className="ml-2">Stats</span>
-			</Link>
+          </Link>
         </li>
 
-        <div class="text-center d-none d-md-inline toggle-tab">
+        <div class="text-center d-none d-md-inline toggle-tab mr-2">
           <button class="rounded-circle border-0" id="sidebarToggle"></button>
         </div>
       </ul>
